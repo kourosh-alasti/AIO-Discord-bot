@@ -1,0 +1,11 @@
+# Folders
+node_modules
+
+
+# Environment Variables
+.env
+
+
+# Configuration Files
+.eslintrc.json
+config.json
